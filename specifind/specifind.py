@@ -17,53 +17,55 @@ torch.set_warn_always(False)
 
 
 @Language.factory("sat_senter")
-def create_sentencer(nlp, name):
-	return Senter()
+def create_sentencer(nlp, name, use_gpu):
+	return Senter(use_gpu)
 
 
 @Language.factory("coreference_ner_extension")
-def create_coreference_ner_extension(nlp, name):
+def create_coreference_ner_extension(nlp, name, use_gpu):
 	logger.info("Loading CR model")
-	return CoreferenceResolution()
+	return CoreferenceResolution(use_gpu)
 
 
 @Language.factory("specifind_ner")
-def create_specifind_ner(nlp, name):
+def create_specifind_ner(nlp, name, use_gpu):
 	logger.info("Loading NER model")
-	return NamedEntityRecognizer()
+	return NamedEntityRecognizer(use_gpu)
 
 
 @Language.factory("specifind_re")
-def create_specifind_re(nlp, name):
+def create_specifind_re(nlp, name, use_gpu):
 	logger.info("Loading RE model")
-	return RelationExtractor()
+	return RelationExtractor(use_gpu)
 
 
 class Specifind:
-	def __init__(self, debug=False):
+	def __init__(self, use_gpu=True, debug=False):
 		super().__init__()
-		if torch.cuda.is_available():
-			device_name = torch.cuda.get_device_name(0)
-			try:
-				spacy.require_gpu()
-				print(f"Using GPU: {device_name}")
-			except Exception as e:
-				warnings.warn(
-					f"GPU detected ({device_name}), but spaCy couldn't use it. "
-					"Make sure you have a GPU-enabled PyTorch installed."
-					f"Error: {str(e)}"
-				)
-		else:
-			warnings.warn("No GPU detected, running on CPU.")
+		if use_gpu:
+			if torch.cuda.is_available():
+				device_name = torch.cuda.get_device_name(0)
+				try:
+					spacy.require_gpu()
+					print(f"Using GPU: {device_name}")
+				except Exception as e:
+					warnings.warn(
+						f"GPU detected ({device_name}), but spaCy couldn't use it. "
+						"Make sure you have a GPU-enabled PyTorch installed."
+						f"Error: {str(e)}"
+					)
+			else:
+				warnings.warn("No GPU detected, running on CPU.")
 
 		self.nlp = spacy.Language()
-		self.nlp.add_pipe("sat_senter")
-		self.nlp.add_pipe("specifind_ner")
-		self.nlp.add_pipe("coreference_ner_extension")
-		self.nlp.add_pipe("specifind_re")
+		self.nlp.add_pipe("sat_senter", config={"use_gpu": use_gpu})
+		self.nlp.add_pipe("specifind_ner", config={"use_gpu": use_gpu})
+		self.nlp.add_pipe("coreference_ner_extension", config={"use_gpu": use_gpu})
+		self.nlp.add_pipe("specifind_re", config={"use_gpu": use_gpu})
 
-		self.ocr = ScienceOCR()
+		self.ocr = ScienceOCR(use_gpu=use_gpu)
 		self.debug = debug
+		self.use_gpu = use_gpu
 
 	@staticmethod
 	def _parse_ents(ents):
@@ -79,7 +81,7 @@ class Specifind:
 
 		return geo, spe
 
-	def analyze_file(self, path, first_page=None, last_page=None, coref=True, dpi=None, return_doc=False):
+	def analyze_file(self, path, first_page=None, last_page=None, coref=True, dpi=None, return_doc=False, store_ocr=True):
 		txt_path = f"{os.path.splitext(path)[0]}.txt"
 
 		if os.path.exists(txt_path):
@@ -88,17 +90,21 @@ class Specifind:
 				full_text = f.read()
 		else:
 			if dpi is None:
-				if torch.cuda.is_available():
-					dpi = 192
-					logger.info(f"GPU detected: setting {dpi} DPI for high quality OCR results. If you are running out of memory, please consider decreasing the DPI.")
+				if self.use_gpu:
+					if torch.cuda.is_available():
+						dpi = 192
+						logger.info(f"GPU detected: setting {dpi} DPI for high quality OCR results. If you are running out of memory, please consider decreasing the DPI.")
+					else:
+						dpi = 96
+						logger.info(f"No GPU found: setting {dpi} DPI. If you are running out of memory, please consider decreasing the DPI.")
 				else:
 					dpi = 96
-					logger.info(f"No GPU found: setting {dpi} DPI. If you are running out of memory, please consider decreasing the DPI.")
 
 			full_text = self.ocr.parse_text(path, first_page, last_page, dpi=dpi)
 
-			with open(txt_path, 'w+', encoding='utf-8') as f:
-				f.write(full_text)
+			if store_ocr:
+				with open(txt_path, 'w+', encoding='utf-8') as f:
+					f.write(full_text)
 
 		return self.analyze(full_text, coref, return_doc)
 

@@ -1,8 +1,6 @@
-# **Specifind**
-
-<div style="display: flex; justify-content: center; margin-bottom: 15px;">
-  <img alt="Specifind logo" src="specifind_logo.png" />
-</div>
+<p align="center">
+  <img alt="Specifind logo" src="https://raw.githubusercontent.com/ToGo347/specifind/refs/heads/master/specifind_logo.png" />
+</p>
 
 **Specifind** is a Python toolkit built to automatically extract **species occurrence information** from unstructured ecological literature. It identifies scientific species names, geographic entities, and the relations connecting them—unlocking occurrence data hidden in text.
 
@@ -70,6 +68,14 @@ s.analyze_file("path/to/file.pdf")
 ---
 
 ## 📘 API Reference
+### `class Specifind(...)`
+
+Initializes the OCR engine.
+
+| Parameter | Type | Default | Description                                                                                                                                  |
+|-----------|------|---------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| use_gpu   | bool | True    | If `True`, uses GPU if available. If `False`, forces CPU usage, which may be slower but more stable on some systems and avoid memory issues. |
+| debug     | bool | False   | If `True`, opens the displaCy visualizer with the results                                                                                    |
 
 ### `analyze_file(...)`
 
@@ -78,13 +84,14 @@ Process and extract information from a **PDF file**.
 **Parameters**
 
 | Name         | Type | Default                          | Description                                                                                            |
-| ------------ | ---- |----------------------------------|--------------------------------------------------------------------------------------------------------|
+|--------------| ---- |----------------------------------|--------------------------------------------------------------------------------------------------------|
 | `path`       | str  | —                                | Path to the file to analyze.                                                                           |
 | `first_page` | int  | 0                                | First page to process (inclusive).                                                                     |
 | `last_page`  | int  | PDF page length                  | Last page to process (exclusive).                                                                      |
 | `coref`      | bool | True                             | Enable coreference resolution.                                                                         |
 | `dpi`        | int  | `192` if GPU available else `96` | Rendering DPI for PDF pages. Consider lowering the value if running out of memory (OOM).               |
 | `return_doc` | bool | False                            | If `True`, return Spacy Doc object with the annotations available in `doc.ents` and `doc._.relations`. |
+| `store_ocr`  | bool | True                             | If `True`, saves OCR results into a txt file                                                           |
 
 **Returns**
 

@@ -3137,14 +3137,14 @@ torch = ["packaging", "safetensors[numpy]", "torch (>=1.10)"]
 
 [[package]]
 name = "science-ocr"
-version = "0.1.0"
+version = "0.3.0"
 description = "Extract clean, structured text from scientific papers in PDF format"
 optional = false
 python-versions = "<4.0,>=3.10"
 groups = ["main"]
 files = [
-    {file = "science_ocr-0.1.0-py3-none-any.whl", hash = "sha256:e0b8e2aa37bda75091c3924737abc3ca3a82b57300a0d8e4d377f68f6ca2988c"},
-    {file = "science_ocr-0.1.0.tar.gz", hash = "sha256:e12c3bfbbd836e7d9ab40e296e6445dd182b2eb1e86b4561fab06e9897f18361"},
+    {file = "science_ocr-0.3.0-py3-none-any.whl", hash = "sha256:be90bad0d08f7d8bdf9574c4aa4dd83df61625f49b19c9f308e94ef70ec24239"},
+    {file = "science_ocr-0.3.0.tar.gz", hash = "sha256:d5f081669ca1ed5108cac4e6f0778ddeb677aab426f64bdc4b1c437113f6fc26"},
 ]
 
 [package.dependencies]
@@ -4609,4 +4609,4 @@ propcache = ">=0.2.1"
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.10,<3.13"
-content-hash = "92ae2cff1b16463732cf0eede2ac4119620860e79165e4b815a8c9bf834ed2bb"
+content-hash = "0d35a4b3860cab070065c267c742cd0daee263670341c06b7b8338265898c778"

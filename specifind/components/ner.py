@@ -5,7 +5,7 @@ from spacy.util import filter_spans
 
 
 class NamedEntityRecognizer:
-	def __init__(self):
+	def __init__(self, use_gpu):
 		model_path = self.download_models()
 		self.nlp = spacy.load(model_path)
 

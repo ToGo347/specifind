@@ -4,9 +4,9 @@ from specifind.vendor.wtpsplit import SaT
 
 
 class Senter:
-	def __init__(self):
+	def __init__(self, use_gpu):
 		self.splitter = SaT("sat-12l-sm")
-		if torch.cuda.is_available():
+		if use_gpu and torch.cuda.is_available():
 			self.splitter.half().to("cuda")
 
 	def __call__(self, doc):

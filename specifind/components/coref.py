@@ -5,9 +5,9 @@ from spacy.tokens import Span
 
 
 class CoreferenceResolution:
-	def __init__(self):
+	def __init__(self, use_gpu):
 		# device to None, automatically selects cuda if available
-		self.fcoref_model = FCoref(device=None, enable_progress_bar=False)
+		self.fcoref_model = FCoref(device=None if use_gpu else "cpu", enable_progress_bar=False)
 
 		if not Span.has_extension("coref"):
 			Span.set_extension("coref", default=None)

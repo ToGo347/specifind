@@ -7,12 +7,12 @@ from transformers import RobertaTokenizerFast, RobertaForSequenceClassification
 
 
 class RelationExtractor:
-	def __init__(self):
+	def __init__(self, use_gpu):
 		model_path = self.download_models()
 		self.tokenizer = RobertaTokenizerFast.from_pretrained(model_path)
 		self.model = RobertaForSequenceClassification.from_pretrained(model_path)
 		self.model.eval()
-		self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+		self.device = torch.device("cuda" if use_gpu and torch.cuda.is_available() else "cpu")
 		self.model.to(self.device)
 
 		if not Doc.has_extension("relations"):
