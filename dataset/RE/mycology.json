@@ -1,0 +1,1622 @@
+[
+    {
+        "id": 1401,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 79,
+                            "end": 100,
+                            "text": "Phytophthora katsurae",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 146,
+                            "end": 151,
+                            "text": "Korea",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, we applied SCAR markers for the rapid and accurate detection of Phytophthora katsurae, the casual agent of chestnut ink disease in Korea."
+        }
+    },
+    {
+        "id": 1402,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 67,
+                            "end": 80,
+                            "text": "P. hippeastri",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 86,
+                            "end": 96,
+                            "text": "California",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "To the best of the authors' knowledge, this is the first report of P. hippeastri from California including the first record of this species on grapevine and the second state record in North America."
+        }
+    },
+    {
+        "id": 1403,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 67,
+                            "end": 80,
+                            "text": "P. hippeastri",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 184,
+                            "end": 197,
+                            "text": "North America",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "To the best of the authors' knowledge, this is the first report of P. hippeastri from California including the first record of this species on grapevine and the second state record in North America."
+        }
+    },
+    {
+        "id": 1404,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 70,
+                            "end": 78,
+                            "text": "C. auris",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 91,
+                            "end": 104,
+                            "text": "New York (NY)",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this investigation, we present laboratory findings from an ongoing C. auris outbreak in New York (NY) from August 2016 through 2018."
+        }
+    },
+    {
+        "id": 1405,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 91,
+                            "end": 107,
+                            "text": "Candida glabrata",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 52,
+                            "end": 66,
+                            "text": "United Kingdom",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Resistance to echinocandin antifungal agents in the United Kingdom in clinical isolates of Candida glabrata: Fifteen years of interpretation and assessment"
+        }
+    },
+    {
+        "id": 1406,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 151,
+                            "end": 174,
+                            "text": "Hypotrachyna nodakensis",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 112,
+                            "end": 123,
+                            "text": "South Korea",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Detailed taxonomic studies and a literature review confirmed the presence of seven species of Hypotrachyna from South Korea, including one new record, Hypotrachyna nodakensis (Asahina) Hale."
+        }
+    },
+    {
+        "id": 1407,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 79,
+                            "end": 102,
+                            "text": "Pratylenchus hippeastri",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 132,
+                            "end": 142,
+                            "text": "California",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Molecular and morphological characterization of the amaryllis lesion nematode, Pratylenchus hippeastri (Inserra et al., 2007), from California"
+        }
+    },
+    {
+        "id": 1408,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 63,
+                            "end": 72,
+                            "text": "T. asahii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 76,
+                            "end": 83,
+                            "text": "Tunisia",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "This is the first reported study of genotype identification of T. asahii in Tunisia and even in the African continent."
+        }
+    },
+    {
+        "id": 1409,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 63,
+                            "end": 72,
+                            "text": "T. asahii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 100,
+                            "end": 117,
+                            "text": "African continent",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "This is the first reported study of genotype identification of T. asahii in Tunisia and even in the African continent."
+        }
+    },
+    {
+        "id": 1410,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 21,
+                            "end": 33,
+                            "text": "L. melanaria",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 132,
+                            "end": 143,
+                            "text": "South Korea",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Among these species, L. melanaria Thaxter, S. baeocerae Thaxter and the male thallus of D. anthici Thaxter are newly described from South Korea."
+        }
+    },
+    {
+        "id": 1411,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 43,
+                            "end": 55,
+                            "text": "S. baeocerae",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 132,
+                            "end": 143,
+                            "text": "South Korea",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Among these species, L. melanaria Thaxter, S. baeocerae Thaxter and the male thallus of D. anthici Thaxter are newly described from South Korea."
+        }
+    },
+    {
+        "id": 1412,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 88,
+                            "end": 98,
+                            "text": "D. anthici",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 132,
+                            "end": 143,
+                            "text": "South Korea",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Among these species, L. melanaria Thaxter, S. baeocerae Thaxter and the male thallus of D. anthici Thaxter are newly described from South Korea."
+        }
+    },
+    {
+        "id": 1413,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 23,
+                            "text": "Cryptococcus neoformans",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 122,
+                            "end": 138,
+                            "text": "Kobe city, Japan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Cryptococcus neoformans was isolated from 13 of 22 samples of pigeon droppings and one of flitter mouse dung collected in Kobe city, Japan."
+        }
+    },
+    {
+        "id": 1414,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 33,
+                            "end": 52,
+                            "text": "trichosporon asahii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 56,
+                            "end": 69,
+                            "text": "Sfax, Tunisia",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "First genotype identification of trichosporon asahii in Sfax, Tunisia"
+        }
+    },
+    {
+        "id": 1415,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 34,
+                            "end": 56,
+                            "text": "Lachnellula willkommii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 158,
+                            "end": 164,
+                            "text": "Europe",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The filamentous ascomycete fungus Lachnellula willkommii is the causal agent of European larch canker (ELC), one of the most destructive diseases of larch in Europe and a regulated plant pathogen of quarantine significance in Canada and the United States."
+        }
+    },
+    {
+        "id": 1416,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 34,
+                            "end": 56,
+                            "text": "Lachnellula willkommii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 226,
+                            "end": 232,
+                            "text": "Canada",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The filamentous ascomycete fungus Lachnellula willkommii is the causal agent of European larch canker (ELC), one of the most destructive diseases of larch in Europe and a regulated plant pathogen of quarantine significance in Canada and the United States."
+        }
+    },
+    {
+        "id": 1417,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 34,
+                            "end": 56,
+                            "text": "Lachnellula willkommii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 241,
+                            "end": 254,
+                            "text": "United States",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The filamentous ascomycete fungus Lachnellula willkommii is the causal agent of European larch canker (ELC), one of the most destructive diseases of larch in Europe and a regulated plant pathogen of quarantine significance in Canada and the United States."
+        }
+    },
+    {
+        "id": 1418,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 13,
+                            "text": "L. willkommii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 36,
+                            "end": 64,
+                            "text": "Massachusetts, North America",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "L. willkommii was first detected in Massachusetts, North America in 1927 on a larch plantation cultivated with nursery stock imported from Great Britain."
+        }
+    },
+    {
+        "id": 1419,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 13,
+                            "text": "L. willkommii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 139,
+                            "end": 152,
+                            "text": "Great Britain",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "L. willkommii was first detected in Massachusetts, North America in 1927 on a larch plantation cultivated with nursery stock imported from Great Britain."
+        }
+    },
+    {
+        "id": 1420,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 128,
+                            "end": 141,
+                            "text": "L. willkommii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 145,
+                            "end": 158,
+                            "text": "North America",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "There is geographic range overlap between several nonpathogenic indigenous Lachnellula species and the reported distribution of L. willkommii in North America."
+        }
+    },
+    {
+        "id": 1421,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 54,
+                            "end": 75,
+                            "text": "Phytophthora katsurae",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 108,
+                            "end": 113,
+                            "text": "Korea",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Development of SCAR markers for the identification of Phytophthora katsurae causing chestnut ink disease in Korea"
+        }
+    },
+    {
+        "id": 1422,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 91,
+                            "end": 114,
+                            "text": "Arctostaphylos uva-ursi",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 157,
+                            "end": 175,
+                            "text": "Scottish highlands",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "This study sets out to provide a baseline description of the ECM community associated with Arctostaphylos uva-ursi over seven sub-alpine/alpine sites in the Scottish highlands."
+        }
+    },
+    {
+        "id": 1423,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 124,
+                            "end": 135,
+                            "text": "A. uva-ursi",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 198,
+                            "end": 206,
+                            "text": "Scotland",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Almost one-fifth of species detected were 'specialist' associates of tree species, highlighting the potential capability of A. uva-ursi ECM communities to facilitate upland woodland regeneration in Scotland."
+        }
+    },
+    {
+        "id": 1424,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 92,
+                            "end": 102,
+                            "text": "M. globosa",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 124,
+                            "end": 137,
+                            "text": "Isfahan, Iran",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The epidemiologic study was indicative of the frequency of some Malassezia species, such as M. globosa and M. restricta, in Isfahan, Iran."
+        }
+    },
+    {
+        "id": 1425,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 107,
+                            "end": 119,
+                            "text": "M. restricta",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 124,
+                            "end": 137,
+                            "text": "Isfahan, Iran",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The epidemiologic study was indicative of the frequency of some Malassezia species, such as M. globosa and M. restricta, in Isfahan, Iran."
+        }
+    },
+    {
+        "id": 1426,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 65,
+                            "end": 85,
+                            "text": "Sporothrix schenckii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 106,
+                            "end": 112,
+                            "text": "Brazil",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Antifungal susceptibilities and identification of species of the Sporothrix schenckii complex isolated in Brazil"
+        }
+    },
+    {
+        "id": 1427,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 21,
+                            "text": "Tessaria dodoneifolia",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 64,
+                            "end": 86,
+                            "text": "Northwestern Argentina",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Tessaria dodoneifolia [Asteraceae] is traditionally employed in Northwestern Argentina for fungal infections treatment."
+        }
+    },
+    {
+        "id": 1428,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 38,
+                            "end": 61,
+                            "text": "Arctostaphylos uva-ursi",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 65,
+                            "end": 73,
+                            "text": "Scotland",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Ectomycorrhizal fungi associated with Arctostaphylos uva-ursi in Scotland: Exploring the biogeography of undiscovered fungal communities"
+        }
+    },
+    {
+        "id": 1429,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 269,
+                            "end": 289,
+                            "text": "Pneumocystis carinii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 48,
+                            "end": 62,
+                            "text": "Austrian farms",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Thirty-two out of 100 lung samples from pigs on Austrian farms were identified as positive, five of them with multiple, 12 with moderate and 15 with few organisms but Grocott's methenamine silver staining demonstrated that only 20 cases were unequivocally positive for Pneumocystis carinii."
+        }
+    },
+    {
+        "id": 1430,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 13,
+                            "end": 23,
+                            "text": "M. globosa",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 89,
+                            "end": 99,
+                            "text": "Sari, Iran",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Conclusions: M. globosa was found to be the predominant pityriasis versicolor isolate in Sari, Iran."
+        }
+    },
+    {
+        "id": 1431,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 20,
+                            "end": 39,
+                            "text": "Antrodia sitchensis",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 73,
+                            "end": 78,
+                            "text": "Korea",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The first report of Antrodia sitchensis (Polyporaceae, Basidiomycota) in Korea"
+        }
+    },
+    {
+        "id": 1432,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 134,
+                            "end": 153,
+                            "text": "Antrodia sitchensis",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 48,
+                            "end": 59,
+                            "text": "South Korea",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "An unrecorded Antrodia species was collected in South Korea and based on morphological characteristics, the species was identified as Antrodia sitchensis."
+        }
+    },
+    {
+        "id": 1433,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 38,
+                            "end": 51,
+                            "text": "Candida auris",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 55,
+                            "end": 63,
+                            "text": "New York",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Laboratory Analysis of an Outbreak of Candida auris in New York from 2016 to 2018: Impact and lessons learned"
+        }
+    },
+    {
+        "id": 1434,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 21,
+                            "end": 39,
+                            "text": "Beauveria Bassiana",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 119,
+                            "end": 129,
+                            "text": "Kazakhstan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Effective Strains of Beauveria Bassiana and B. Pseudobassiana used Against the Asian Locust (Locusta Migratoria L.) in Kazakhstan"
+        }
+    },
+    {
+        "id": 1435,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 44,
+                            "end": 61,
+                            "text": "B. Pseudobassiana",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 119,
+                            "end": 129,
+                            "text": "Kazakhstan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Effective Strains of Beauveria Bassiana and B. Pseudobassiana used Against the Asian Locust (Locusta Migratoria L.) in Kazakhstan"
+        }
+    },
+    {
+        "id": 1436,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 93,
+                            "end": 111,
+                            "text": "Locusta Migratoria",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 119,
+                            "end": 129,
+                            "text": "Kazakhstan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Effective Strains of Beauveria Bassiana and B. Pseudobassiana used Against the Asian Locust (Locusta Migratoria L.) in Kazakhstan"
+        }
+    }
+]

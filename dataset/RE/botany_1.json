@@ -1,0 +1,2162 @@
+[
+    {
+        "id": 925,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 26,
+                            "end": 41,
+                            "text": "Sorghum bicolor",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 126,
+                            "end": 141,
+                            "text": "continental USA",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Although biomass sorghum [Sorghum bicolor (L.) Moench] has been identified as a high yielding bioenergy feedstock crop on the continental USA, there is however lack of conclusive data on its performance in Hawaii (HI)."
+        }
+    },
+    {
+        "id": 926,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 26,
+                            "end": 41,
+                            "text": "Sorghum bicolor",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 206,
+                            "end": 217,
+                            "text": "Hawaii (HI)",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Although biomass sorghum [Sorghum bicolor (L.) Moench] has been identified as a high yielding bioenergy feedstock crop on the continental USA, there is however lack of conclusive data on its performance in Hawaii (HI)."
+        }
+    },
+    {
+        "id": 927,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 150,
+                            "end": 161,
+                            "text": "Picea abies",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 192,
+                            "end": 198,
+                            "text": "Europe",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In the last 50 years, forest disturbances, caused mainly by insect outbreaks and windstorms, had a significant impact on the subalpine Norway spruce (Picea abies (L.) H. Karst.) stands across Europe."
+        }
+    },
+    {
+        "id": 928,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 208,
+                            "end": 223,
+                            "text": "Medicago sativa",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 153,
+                            "end": 181,
+                            "text": "North Mathiatis mine, Cyprus",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "This study evaluated the use of green compost at increasing rates (10, 25 and 50% v/v) for the revegetation of extremely acidic sulfidic tailings of the North Mathiatis mine, Cyprus, with the use of alfalfa (Medicago sativa L.) plants, under greenhouse conditions."
+        }
+    },
+    {
+        "id": 929,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 12,
+                            "end": 29,
+                            "text": "Camellia sinensis",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 106,
+                            "end": 129,
+                            "text": "China\u2019s Yunnan Province",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Pu-erh tea, Camellia sinensis is a traditional Chinese tea, one of the black teas, originally produced in China\u2019s Yunnan Province, named after its origin and distribution center in Pu-erh, Yunnan."
+        }
+    },
+    {
+        "id": 930,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 12,
+                            "end": 29,
+                            "text": "Camellia sinensis",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 181,
+                            "end": 195,
+                            "text": "Pu-erh, Yunnan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Pu-erh tea, Camellia sinensis is a traditional Chinese tea, one of the black teas, originally produced in China\u2019s Yunnan Province, named after its origin and distribution center in Pu-erh, Yunnan."
+        }
+    },
+    {
+        "id": 931,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 16,
+                            "end": 33,
+                            "text": "Ceratonia siliqua",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 84,
+                            "end": 104,
+                            "text": "Mediterranean region",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The carob tree (Ceratonia siliqua L.) is one of the most iconic tree species of the Mediterranean region, with valuable economic, ecological and cultural value."
+        }
+    },
+    {
+        "id": 932,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 151,
+                            "end": 161,
+                            "text": "C. siliqua",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 206,
+                            "end": 213,
+                            "text": "Morocco",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Using image analysis techniques, we measured seven traits related to the size and the shape of 1740 seeds collected from 18 populations of spontaneous C. siliqua distributed along a latitudinal transect in Morocco under different bioclimatic conditions."
+        }
+    },
+    {
+        "id": 933,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 302,
+                            "end": 317,
+                            "text": "Psidium guajava",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 201,
+                            "end": 236,
+                            "text": "Itajub\u00e1, Minas Gerais state, Brazil",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Here we evaluated the six thermal time methods widely used to compute thermal requirement, and identified the influence of the photoperiod from the 2015 and 2016 growing seasons and 12 sowing dates in Itajub\u00e1, Minas Gerais state, Brazil, on seedling development of three native tropical forest species Psidium guajava L. (Myrtaceae), Citharexylum myrianthum Cham. (Verbenaceae), and Bixa orellana L. (Bixaceae)."
+        }
+    },
+    {
+        "id": 934,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 334,
+                            "end": 357,
+                            "text": "Citharexylum myrianthum",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 201,
+                            "end": 236,
+                            "text": "Itajub\u00e1, Minas Gerais state, Brazil",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Here we evaluated the six thermal time methods widely used to compute thermal requirement, and identified the influence of the photoperiod from the 2015 and 2016 growing seasons and 12 sowing dates in Itajub\u00e1, Minas Gerais state, Brazil, on seedling development of three native tropical forest species Psidium guajava L. (Myrtaceae), Citharexylum myrianthum Cham. (Verbenaceae), and Bixa orellana L. (Bixaceae)."
+        }
+    },
+    {
+        "id": 935,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 383,
+                            "end": 396,
+                            "text": "Bixa orellana",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 201,
+                            "end": 236,
+                            "text": "Itajub\u00e1, Minas Gerais state, Brazil",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Here we evaluated the six thermal time methods widely used to compute thermal requirement, and identified the influence of the photoperiod from the 2015 and 2016 growing seasons and 12 sowing dates in Itajub\u00e1, Minas Gerais state, Brazil, on seedling development of three native tropical forest species Psidium guajava L. (Myrtaceae), Citharexylum myrianthum Cham. (Verbenaceae), and Bixa orellana L. (Bixaceae)."
+        }
+    },
+    {
+        "id": 936,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 36,
+                            "end": 50,
+                            "text": "Chelonia mydas",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 146,
+                            "end": 189,
+                            "text": "Western Indian Ocean, the Great Chagos Bank",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "We satellite tracked green turtles (Chelonia mydas), which are known to forage on seagrasses, to a remote, pristine deep-water environment in the Western Indian Ocean, the Great Chagos Bank, which lies in the heart of one of the world's largest marine protected areas (MPAs)."
+        }
+    },
+    {
+        "id": 937,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 46,
+                            "end": 57,
+                            "text": "Picea abies",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 23,
+                            "end": 29,
+                            "text": "Norway",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In the recent decades, Norway spruce forests (Picea abies Karst.) in Europe have been subject to large-scale tree mortality caused by the spruce bark beetle (Ips typographus L.)."
+        }
+    },
+    {
+        "id": 938,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 46,
+                            "end": 57,
+                            "text": "Picea abies",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 69,
+                            "end": 75,
+                            "text": "Europe",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In the recent decades, Norway spruce forests (Picea abies Karst.) in Europe have been subject to large-scale tree mortality caused by the spruce bark beetle (Ips typographus L.)."
+        }
+    },
+    {
+        "id": 939,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 158,
+                            "end": 173,
+                            "text": "Ips typographus",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 23,
+                            "end": 29,
+                            "text": "Norway",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In the recent decades, Norway spruce forests (Picea abies Karst.) in Europe have been subject to large-scale tree mortality caused by the spruce bark beetle (Ips typographus L.)."
+        }
+    },
+    {
+        "id": 940,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 158,
+                            "end": 173,
+                            "text": "Ips typographus",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 69,
+                            "end": 75,
+                            "text": "Europe",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In the recent decades, Norway spruce forests (Picea abies Karst.) in Europe have been subject to large-scale tree mortality caused by the spruce bark beetle (Ips typographus L.)."
+        }
+    },
+    {
+        "id": 941,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 75,
+                            "end": 88,
+                            "text": "Iris sibirica",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 108,
+                            "end": 115,
+                            "text": "Croatia",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In addition, due to the limited distribution of certain rare plants (e.g., Iris sibirica subsp. sibirica in Croatia), their pollen has an even greater forensic potential than the similar pollen of related, more widespread taxa."
+        }
+    },
+    {
+        "id": 942,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 33,
+                            "end": 48,
+                            "text": "Malus domestica",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 76,
+                            "end": 83,
+                            "text": "Estonia",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Polyphenolic compounds in apple (Malus domestica Borkh.) cultivars grown in Estonia; [Pol\u00fcfenoolsed \u00fchendid Eestis kasvatatavates \u00f5unapuu (Malus domestica Borkh.) sortides]"
+        }
+    },
+    {
+        "id": 943,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 139,
+                            "end": 154,
+                            "text": "Malus domestica",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 76,
+                            "end": 83,
+                            "text": "Estonia",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Polyphenolic compounds in apple (Malus domestica Borkh.) cultivars grown in Estonia; [Pol\u00fcfenoolsed \u00fchendid Eestis kasvatatavates \u00f5unapuu (Malus domestica Borkh.) sortides]"
+        }
+    },
+    {
+        "id": 944,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 152,
+                            "end": 166,
+                            "text": "Coffea arabica",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 68,
+                            "end": 79,
+                            "text": "Puerto Rico",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Under high (A2) and mid-low (A1B) emission scenarios for 2011\u20132040, Puerto Rico is projected to exceed mean annual temperature parameters for growth of Coffea arabica."
+        }
+    },
+    {
+        "id": 945,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 41,
+                            "end": 68,
+                            "text": "Larix principis-rupprechtii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 114,
+                            "end": 149,
+                            "text": "Liupan Mountains of Northwest China",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Intra-annual variation of stem radius of Larix principis-rupprechtii and its response to environmental factors in Liupan Mountains of Northwest China"
+        }
+    },
+    {
+        "id": 946,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 15,
+                            "end": 32,
+                            "text": "Quercus mongolica",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 90,
+                            "end": 105,
+                            "text": "northeast China",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Mongolian oak (Quercus mongolica Fisch. ex Ledeb.), a constructive species distributed in northeast China, has a high drought tolerance."
+        }
+    },
+    {
+        "id": 947,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 65,
+                            "end": 76,
+                            "text": "Picea abies",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 179,
+                            "end": 204,
+                            "text": "South and Central Finland",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In the survey, 65 regeneration sites planted with Norway spruce (Picea abies (L.) Karst.) container seedlings from May to July 2021 were randomly selected from different parts of South and Central Finland (60\u201364\u00b0N), and several variables were assessed in sample plots from these sites in September\u2013October 2021."
+        }
+    },
+    {
+        "id": 948,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 100,
+                            "end": 115,
+                            "text": "Sonneratia alba",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 129,
+                            "end": 146,
+                            "text": "Indo-West Pacific",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Vicariance and oceanic barriers drive contemporary genetic structure of widespread mangrove species Sonneratia alba J. Sm in the Indo-West Pacific"
+        }
+    },
+    {
+        "id": 949,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 18,
+                            "text": "Hancornia speciosa",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 109,
+                            "end": 115,
+                            "text": "Brazil",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Hancornia speciosa Gomes is a fruit tree, commonly known as the mangaba tree, which is widespread throughout Brazil."
+        }
+    },
+    {
+        "id": 950,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 107,
+                            "end": 125,
+                            "text": "Sorbus matsumurana",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 341,
+                            "end": 353,
+                            "text": "Mt. Norikura",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, we analyzed the photosynthetic and water use characteristics of two deciduous broad-leaved (Sorbus matsumurana and Betula ermanii) and two evergreen coniferous (Abies mariesii and Pinus pumila) tree species at the treeline\u2013i.e. the line connecting the highest patches of forest composed of trees at least three meters high\u2013of Mt. Norikura in central Japan, to explore the physiological adaptations of trees to alpine environments."
+        }
+    },
+    {
+        "id": 951,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 107,
+                            "end": 125,
+                            "text": "Sorbus matsumurana",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 357,
+                            "end": 370,
+                            "text": "central Japan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, we analyzed the photosynthetic and water use characteristics of two deciduous broad-leaved (Sorbus matsumurana and Betula ermanii) and two evergreen coniferous (Abies mariesii and Pinus pumila) tree species at the treeline\u2013i.e. the line connecting the highest patches of forest composed of trees at least three meters high\u2013of Mt. Norikura in central Japan, to explore the physiological adaptations of trees to alpine environments."
+        }
+    },
+    {
+        "id": 952,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 130,
+                            "end": 144,
+                            "text": "Betula ermanii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 341,
+                            "end": 353,
+                            "text": "Mt. Norikura",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, we analyzed the photosynthetic and water use characteristics of two deciduous broad-leaved (Sorbus matsumurana and Betula ermanii) and two evergreen coniferous (Abies mariesii and Pinus pumila) tree species at the treeline\u2013i.e. the line connecting the highest patches of forest composed of trees at least three meters high\u2013of Mt. Norikura in central Japan, to explore the physiological adaptations of trees to alpine environments."
+        }
+    },
+    {
+        "id": 953,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 130,
+                            "end": 144,
+                            "text": "Betula ermanii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 357,
+                            "end": 370,
+                            "text": "central Japan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, we analyzed the photosynthetic and water use characteristics of two deciduous broad-leaved (Sorbus matsumurana and Betula ermanii) and two evergreen coniferous (Abies mariesii and Pinus pumila) tree species at the treeline\u2013i.e. the line connecting the highest patches of forest composed of trees at least three meters high\u2013of Mt. Norikura in central Japan, to explore the physiological adaptations of trees to alpine environments."
+        }
+    },
+    {
+        "id": 954,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 176,
+                            "end": 190,
+                            "text": "Abies mariesii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 341,
+                            "end": 353,
+                            "text": "Mt. Norikura",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, we analyzed the photosynthetic and water use characteristics of two deciduous broad-leaved (Sorbus matsumurana and Betula ermanii) and two evergreen coniferous (Abies mariesii and Pinus pumila) tree species at the treeline\u2013i.e. the line connecting the highest patches of forest composed of trees at least three meters high\u2013of Mt. Norikura in central Japan, to explore the physiological adaptations of trees to alpine environments."
+        }
+    },
+    {
+        "id": 955,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 176,
+                            "end": 190,
+                            "text": "Abies mariesii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 357,
+                            "end": 370,
+                            "text": "central Japan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, we analyzed the photosynthetic and water use characteristics of two deciduous broad-leaved (Sorbus matsumurana and Betula ermanii) and two evergreen coniferous (Abies mariesii and Pinus pumila) tree species at the treeline\u2013i.e. the line connecting the highest patches of forest composed of trees at least three meters high\u2013of Mt. Norikura in central Japan, to explore the physiological adaptations of trees to alpine environments."
+        }
+    },
+    {
+        "id": 956,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 195,
+                            "end": 207,
+                            "text": "Pinus pumila",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 341,
+                            "end": 353,
+                            "text": "Mt. Norikura",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, we analyzed the photosynthetic and water use characteristics of two deciduous broad-leaved (Sorbus matsumurana and Betula ermanii) and two evergreen coniferous (Abies mariesii and Pinus pumila) tree species at the treeline\u2013i.e. the line connecting the highest patches of forest composed of trees at least three meters high\u2013of Mt. Norikura in central Japan, to explore the physiological adaptations of trees to alpine environments."
+        }
+    },
+    {
+        "id": 957,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 195,
+                            "end": 207,
+                            "text": "Pinus pumila",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 357,
+                            "end": 370,
+                            "text": "central Japan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, we analyzed the photosynthetic and water use characteristics of two deciduous broad-leaved (Sorbus matsumurana and Betula ermanii) and two evergreen coniferous (Abies mariesii and Pinus pumila) tree species at the treeline\u2013i.e. the line connecting the highest patches of forest composed of trees at least three meters high\u2013of Mt. Norikura in central Japan, to explore the physiological adaptations of trees to alpine environments."
+        }
+    },
+    {
+        "id": 958,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 129,
+                            "end": 144,
+                            "text": "Sonneratia alba",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 110,
+                            "end": 127,
+                            "text": "Indo-West Pacific",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Here, we investigated the genetic patterns of one of the most widespread and abundant mangrove species in the Indo-West Pacific, Sonneratia alba J. Sm., in order to gain insights into the ecological and evolutionary drivers of genetic structure in mangroves."
+        }
+    },
+    {
+        "id": 959,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 155,
+                            "end": 170,
+                            "text": "Elephas maximus",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 175,
+                            "end": 190,
+                            "text": "Southwest China",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Extending the Behavioral Geography within the Context of Forest Restoration: Research on the Geographical Behaviors of Northern-Migrating Asian Elephants (Elephas maximus) in Southwest China"
+        }
+    },
+    {
+        "id": 960,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 53,
+                            "end": 80,
+                            "text": "Larix principis-rupprechtii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 112,
+                            "end": 146,
+                            "text": "LiupanMountains of Northwest China",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "This study investigated the stem radius variation of Larix principis-rupprechtii Mayr growing in the semi-humid LiupanMountains of Northwest China at daily and seasonal scales using high-resolution automatic band dendrometers fromMay to October in 2015."
+        }
+    },
+    {
+        "id": 961,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 118,
+                            "end": 130,
+                            "text": "D. insularis",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 225,
+                            "end": 250,
+                            "text": "Paran\u00e1, a Brazilian state",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In such context, this research aimed at the characterization of the foliar anatomical structure of two populations of D. insularis (glyphosate-resistant and glyphosate-susceptible biotypes) collected in agricultural areas of Paran\u00e1, a Brazilian state."
+        }
+    },
+    {
+        "id": 962,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 102,
+                            "end": 113,
+                            "text": "L. stoechas",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 127,
+                            "end": 164,
+                            "text": "Tlemcen region in the west of Algeria",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The current study was designed to give more knowledge and helping to exploit the leaves of the plants L. stoechas collected in Tlemcen region in the west of Algeria by determining the anti-corrosive activity of its essential oil."
+        }
+    },
+    {
+        "id": 963,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 15,
+                            "text": "Curcuma species",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 66,
+                            "end": 71,
+                            "text": "India",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Curcuma species (Zingiberaceae) are well known medicinal herbs in India and Southeast Asia."
+        }
+    },
+    {
+        "id": 964,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 15,
+                            "text": "Curcuma species",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 76,
+                            "end": 90,
+                            "text": "Southeast Asia",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Curcuma species (Zingiberaceae) are well known medicinal herbs in India and Southeast Asia."
+        }
+    },
+    {
+        "id": 965,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 47,
+                            "end": 62,
+                            "text": "Dolichos lablab",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 163,
+                            "end": 169,
+                            "text": "Jhansi",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, genetic diversity on ten Indian Dolichos lablab (L.) genotypes were surveyed utilizing SSR markers at Department of Botany, Bundelkhand University, Jhansi during 2019-20 got from Indian gene bank."
+        }
+    },
+    {
+        "id": 966,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 17,
+                            "text": "Benincasa hispida",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 48,
+                            "end": 53,
+                            "text": "China",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Benincasa hispida is a widely used vegetable in China, which belongs to the Cucurbitaceae family."
+        }
+    },
+    {
+        "id": 967,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 75,
+                            "end": 96,
+                            "text": "Glycyrrhiza uralensis",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 150,
+                            "end": 165,
+                            "text": "northwest China",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Here, the major flavonoids and endophytic bacterial communities in various Glycyrrhiza uralensis Fisch. roots collected from seven distinct places in northwest China, as well as the edaphic conditions, were characterized and analyzed."
+        }
+    },
+    {
+        "id": 968,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 15,
+                            "end": 36,
+                            "text": "Spartina alterniflora",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 103,
+                            "end": 108,
+                            "text": "China",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Wide and rapid Spartina alterniflora invasion has threatened the sustainability of coastal wetlands of China, and has a significant impact on sediment biogeochemical cycle."
+        }
+    },
+    {
+        "id": 969,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 315,
+                            "end": 336,
+                            "text": "Spartina alterniflora",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 368,
+                            "end": 393,
+                            "text": "Zhangjiang Estuary, China",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Here, denitrification (DEN), anaerobic ammonium oxidation (ANA) and dissimilatory nitrate reduction to ammonium (DNRA) rates, contributions (DEN%, ANA%, and DNRA%), associated functional genes (nirS, anammox 16S rRNA and nrfA) and controlling factors were investigated in surface sediments (0\u20135 cm) in mangrove and Spartina alterniflora communities and ecotone of the Zhangjiang Estuary, China."
+        }
+    },
+    {
+        "id": 970,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 18,
+                            "end": 39,
+                            "text": "Spartina alterniflora",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 179,
+                            "end": 184,
+                            "text": "China",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "We estimated that Spartina alterniflora invasion has increased sediment N-loss (831.09 \u00b1 55.16 t N yr\u22121) but reduced N retention (783.48 \u00b1 37.73 t N yr\u22121) in mangrove habitats of China within last 40 years (1980\u20132020)."
+        }
+    },
+    {
+        "id": 971,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 153,
+                            "end": 166,
+                            "text": "Picea mariana",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 225,
+                            "end": 237,
+                            "text": "Brooks Range",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "An increase of Picea pollen (up to 13%) in the upper part of peat profile is probably associated with long distance pollen transport from populations of Picea mariana and Picea glauca located at the southern foothills of the Brooks Range."
+        }
+    },
+    {
+        "id": 972,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 171,
+                            "end": 183,
+                            "text": "Picea glauca",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 225,
+                            "end": 237,
+                            "text": "Brooks Range",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "An increase of Picea pollen (up to 13%) in the upper part of peat profile is probably associated with long distance pollen transport from populations of Picea mariana and Picea glauca located at the southern foothills of the Brooks Range."
+        }
+    }
+]

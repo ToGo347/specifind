@@ -1,0 +1,1937 @@
+[
+    {
+        "id": 973,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 19,
+                            "text": "Amaranthus tricolor",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 62,
+                            "end": 67,
+                            "text": "China",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Amaranthus tricolor (Amaranthaceae) is a popular vegetable in China."
+        }
+    },
+    {
+        "id": 974,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 26,
+                            "end": 39,
+                            "text": "O. pes-caprae",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 60,
+                            "end": 77,
+                            "text": "Iberian Peninsula",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Fifty-five populations of O. pes-caprae were sampled in the Iberian Peninsula and Morocco to evaluate the floral morph ratio and individual fruit set."
+        }
+    },
+    {
+        "id": 975,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 26,
+                            "end": 39,
+                            "text": "O. pes-caprae",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 82,
+                            "end": 89,
+                            "text": "Morocco",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Fifty-five populations of O. pes-caprae were sampled in the Iberian Peninsula and Morocco to evaluate the floral morph ratio and individual fruit set."
+        }
+    },
+    {
+        "id": 976,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 115,
+                            "end": 136,
+                            "text": "Pseudotsuga menziesii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 156,
+                            "end": 162,
+                            "text": "Sweden",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The need for species that will grow well through ongoing climate change has increased the interest in Douglas fir [Pseudotsuga menziesii (Mirb.) Franco] in Sweden."
+        }
+    },
+    {
+        "id": 977,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 98,
+                            "end": 115,
+                            "text": "scindapsus aureus",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 54,
+                            "end": 80,
+                            "text": "Dalong Lake in Xuzhou City",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "purification effect of 5 kinds of landscape plants of Dalong Lake in Xuzhou City: Water hyacinth> scindapsus aureus>cockscomb>calendula officinalis>salvia splendens."
+        }
+    },
+    {
+        "id": 978,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 126,
+                            "end": 147,
+                            "text": "calendula officinalis",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 54,
+                            "end": 80,
+                            "text": "Dalong Lake in Xuzhou City",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "purification effect of 5 kinds of landscape plants of Dalong Lake in Xuzhou City: Water hyacinth> scindapsus aureus>cockscomb>calendula officinalis>salvia splendens."
+        }
+    },
+    {
+        "id": 979,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 148,
+                            "end": 164,
+                            "text": "salvia splendens",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 54,
+                            "end": 80,
+                            "text": "Dalong Lake in Xuzhou City",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "purification effect of 5 kinds of landscape plants of Dalong Lake in Xuzhou City: Water hyacinth> scindapsus aureus>cockscomb>calendula officinalis>salvia splendens."
+        }
+    },
+    {
+        "id": 980,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 10,
+                            "end": 20,
+                            "text": "C. dentata",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 52,
+                            "end": 101,
+                            "text": "Kadagaman, near Tiruvannamalai, Tamil Nadu, India",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The plant C. dentata was collected in May 1999 from Kadagaman, near Tiruvannamalai, Tamil Nadu, India, and authenticated by Centre for Advanced Study in Botany, University of Madras, Chennai."
+        }
+    },
+    {
+        "id": 981,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 10,
+                            "end": 20,
+                            "text": "C. dentata",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 183,
+                            "end": 190,
+                            "text": "Chennai",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The plant C. dentata was collected in May 1999 from Kadagaman, near Tiruvannamalai, Tamil Nadu, India, and authenticated by Centre for Advanced Study in Botany, University of Madras, Chennai."
+        }
+    },
+    {
+        "id": 982,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 30,
+                            "end": 38,
+                            "text": "Zea mays",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 86,
+                            "end": 109,
+                            "text": "Balsas region of Mexico",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The first steps toward maize (Zea mays subspecies mays) domestication occurred in the Balsas region of Mexico by \u223c9,000 calendar years B.P. (cal B.P.), but it remains unclear when maize was productive enough to be a staple grain in the Americas."
+        }
+    },
+    {
+        "id": 983,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 89,
+                            "end": 106,
+                            "text": "Oxalis pes-caprae",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 114,
+                            "end": 154,
+                            "text": "western area of the Mediterranean region",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Distribution of flower morphs, ploidy level and sexual reproduction of the invasive weed Oxalis pes-caprae in the western area of the Mediterranean region"
+        }
+    },
+    {
+        "id": 984,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 91,
+                            "end": 108,
+                            "text": "Phedimus spurious",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 65,
+                            "end": 82,
+                            "text": "southern Michigan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Recommended species at the depths tested for climates similar to southern Michigan include Phedimus spurious Raf. 'Leningrad White', Sedum acre L., S. album L. 'Bella d'Inverno', S. middendorffianum L., S. reflexum L., S. sediforme J., and S. spurium Bieb. 'Summer Glory'."
+        }
+    },
+    {
+        "id": 985,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 133,
+                            "end": 143,
+                            "text": "Sedum acre",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 65,
+                            "end": 82,
+                            "text": "southern Michigan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Recommended species at the depths tested for climates similar to southern Michigan include Phedimus spurious Raf. 'Leningrad White', Sedum acre L., S. album L. 'Bella d'Inverno', S. middendorffianum L., S. reflexum L., S. sediforme J., and S. spurium Bieb. 'Summer Glory'."
+        }
+    },
+    {
+        "id": 986,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 148,
+                            "end": 156,
+                            "text": "S. album",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 65,
+                            "end": 82,
+                            "text": "southern Michigan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Recommended species at the depths tested for climates similar to southern Michigan include Phedimus spurious Raf. 'Leningrad White', Sedum acre L., S. album L. 'Bella d'Inverno', S. middendorffianum L., S. reflexum L., S. sediforme J., and S. spurium Bieb. 'Summer Glory'."
+        }
+    },
+    {
+        "id": 987,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 179,
+                            "end": 198,
+                            "text": "S. middendorffianum",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 65,
+                            "end": 82,
+                            "text": "southern Michigan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Recommended species at the depths tested for climates similar to southern Michigan include Phedimus spurious Raf. 'Leningrad White', Sedum acre L., S. album L. 'Bella d'Inverno', S. middendorffianum L., S. reflexum L., S. sediforme J., and S. spurium Bieb. 'Summer Glory'."
+        }
+    },
+    {
+        "id": 988,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 203,
+                            "end": 214,
+                            "text": "S. reflexum",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 65,
+                            "end": 82,
+                            "text": "southern Michigan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Recommended species at the depths tested for climates similar to southern Michigan include Phedimus spurious Raf. 'Leningrad White', Sedum acre L., S. album L. 'Bella d'Inverno', S. middendorffianum L., S. reflexum L., S. sediforme J., and S. spurium Bieb. 'Summer Glory'."
+        }
+    },
+    {
+        "id": 989,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 219,
+                            "end": 231,
+                            "text": "S. sediforme",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 65,
+                            "end": 82,
+                            "text": "southern Michigan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Recommended species at the depths tested for climates similar to southern Michigan include Phedimus spurious Raf. 'Leningrad White', Sedum acre L., S. album L. 'Bella d'Inverno', S. middendorffianum L., S. reflexum L., S. sediforme J., and S. spurium Bieb. 'Summer Glory'."
+        }
+    },
+    {
+        "id": 990,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 240,
+                            "end": 250,
+                            "text": "S. spurium",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 65,
+                            "end": 82,
+                            "text": "southern Michigan",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Recommended species at the depths tested for climates similar to southern Michigan include Phedimus spurious Raf. 'Leningrad White', Sedum acre L., S. album L. 'Bella d'Inverno', S. middendorffianum L., S. reflexum L., S. sediforme J., and S. spurium Bieb. 'Summer Glory'."
+        }
+    },
+    {
+        "id": 991,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 146,
+                            "end": 154,
+                            "text": "Zea mays",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 84,
+                            "end": 93,
+                            "text": "Wisconsin",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Current research indicates that plant populations should increase above the current Wisconsin recommendation of 74100 plants ha-1 for higher com (Zea mays L.) grain yields."
+        }
+    },
+    {
+        "id": 992,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 166,
+                            "end": 177,
+                            "text": "Picea abies",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 137,
+                            "end": 149,
+                            "text": "Fennoscandia",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, we simulated stand development and carbon pools in four even-aged stands representing the two most common tree species in Fennoscandia, Norway spruce (Picea abies (L.) Karst.) and Scots pine (Pinus sylvestris L.), growing on high- and low-productivity sites."
+        }
+    },
+    {
+        "id": 993,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 207,
+                            "end": 223,
+                            "text": "Pinus sylvestris",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 137,
+                            "end": 149,
+                            "text": "Fennoscandia",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, we simulated stand development and carbon pools in four even-aged stands representing the two most common tree species in Fennoscandia, Norway spruce (Picea abies (L.) Karst.) and Scots pine (Pinus sylvestris L.), growing on high- and low-productivity sites."
+        }
+    },
+    {
+        "id": 994,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 43,
+                            "end": 61,
+                            "text": "Cuscuta campestris",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 122,
+                            "end": 154,
+                            "text": "Kahramanmara\u015f Province of Turkey",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "In this study, the effect of field dodder (Cuscuta campestris Yunck.) on the leaf and tuber yield of sugar beet fields in Kahramanmara\u015f Province of Turkey was investigated."
+        }
+    },
+    {
+        "id": 995,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 40,
+                            "end": 52,
+                            "text": "Cucumis melo",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 160,
+                            "end": 173,
+                            "text": "Mediterranean",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "By ancient times, long-fruited forms of Cucumis melo (melon) and Lagenaria siceraria (bottle gourd) were selected, cultivated and used as vegetables around the Mediterranean and, in addition, bottle-shaped fruits of L. siceraria were employed as vessels."
+        }
+    },
+    {
+        "id": 996,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 65,
+                            "end": 84,
+                            "text": "Lagenaria siceraria",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 160,
+                            "end": 173,
+                            "text": "Mediterranean",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "By ancient times, long-fruited forms of Cucumis melo (melon) and Lagenaria siceraria (bottle gourd) were selected, cultivated and used as vegetables around the Mediterranean and, in addition, bottle-shaped fruits of L. siceraria were employed as vessels."
+        }
+    },
+    {
+        "id": 997,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 216,
+                            "end": 228,
+                            "text": "L. siceraria",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 160,
+                            "end": 173,
+                            "text": "Mediterranean",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "By ancient times, long-fruited forms of Cucumis melo (melon) and Lagenaria siceraria (bottle gourd) were selected, cultivated and used as vegetables around the Mediterranean and, in addition, bottle-shaped fruits of L. siceraria were employed as vessels."
+        }
+    },
+    {
+        "id": 998,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 61,
+                            "end": 76,
+                            "text": "Cucumis sativus",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 95,
+                            "end": 113,
+                            "text": "Mediterranean area",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "No unequivocal evidence was found to suggest the presence of Cucumis sativus (cucumber) in the Mediterranean area during this era."
+        }
+    },
+    {
+        "id": 999,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 18,
+                            "text": "Xylella fastidiosa",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 179,
+                            "end": 185,
+                            "text": "Brazil",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Xylella fastidiosa is a vector-borne, plant-pathogenic bacterium that causes disease in citrus (citrus variegated chlorosis [CVC]) and coffee (coffee leaf scorch [CLS]) plants in Brazil."
+        }
+    },
+    {
+        "id": 1000,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 19,
+                            "end": 27,
+                            "text": "Zea mays",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 36,
+                            "end": 49,
+                            "text": "North America",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "We collected corn (Zea mays) across North America during the summer of 2004."
+        }
+    },
+    {
+        "id": 1001,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 120,
+                            "end": 139,
+                            "text": "Enkleia malaccensis",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 222,
+                            "end": 248,
+                            "text": "Pasoh, Peninsular Malaysia",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "We measured the diurnal changes in net photosynthetic rate (PN) and stomatal conductance (gs) of the leaves of a liana, Enkleia malaccensis Griff. (Thymelaeaceae), at the canopy level in the lowland tropical rainforest at Pasoh, Peninsular Malaysia."
+        }
+    },
+    {
+        "id": 1002,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 96,
+                            "end": 113,
+                            "text": "Penstemon palmeri",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 66,
+                            "end": 87,
+                            "text": "western United States",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The authors investigated salinity tolerance of four intermountain western United States native (Penstemon palmeri, Mirabilis multiflora, Geranium viscosissimum, and Eriogonum jamesii) and four common (Echinacea purpurea, Lavandula angustifolia, Leucanthemum xsuperbum 'Alaska', and xPenstemon mexicali 'Red Rocks') ornamental herbaceous perennials."
+        }
+    },
+    {
+        "id": 1003,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 115,
+                            "end": 135,
+                            "text": "Mirabilis multiflora",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 66,
+                            "end": 87,
+                            "text": "western United States",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The authors investigated salinity tolerance of four intermountain western United States native (Penstemon palmeri, Mirabilis multiflora, Geranium viscosissimum, and Eriogonum jamesii) and four common (Echinacea purpurea, Lavandula angustifolia, Leucanthemum xsuperbum 'Alaska', and xPenstemon mexicali 'Red Rocks') ornamental herbaceous perennials."
+        }
+    },
+    {
+        "id": 1004,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 137,
+                            "end": 159,
+                            "text": "Geranium viscosissimum",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 66,
+                            "end": 87,
+                            "text": "western United States",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The authors investigated salinity tolerance of four intermountain western United States native (Penstemon palmeri, Mirabilis multiflora, Geranium viscosissimum, and Eriogonum jamesii) and four common (Echinacea purpurea, Lavandula angustifolia, Leucanthemum xsuperbum 'Alaska', and xPenstemon mexicali 'Red Rocks') ornamental herbaceous perennials."
+        }
+    },
+    {
+        "id": 1005,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 165,
+                            "end": 182,
+                            "text": "Eriogonum jamesii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 66,
+                            "end": 87,
+                            "text": "western United States",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The authors investigated salinity tolerance of four intermountain western United States native (Penstemon palmeri, Mirabilis multiflora, Geranium viscosissimum, and Eriogonum jamesii) and four common (Echinacea purpurea, Lavandula angustifolia, Leucanthemum xsuperbum 'Alaska', and xPenstemon mexicali 'Red Rocks') ornamental herbaceous perennials."
+        }
+    },
+    {
+        "id": 1006,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 201,
+                            "end": 219,
+                            "text": "Echinacea purpurea",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 66,
+                            "end": 87,
+                            "text": "western United States",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The authors investigated salinity tolerance of four intermountain western United States native (Penstemon palmeri, Mirabilis multiflora, Geranium viscosissimum, and Eriogonum jamesii) and four common (Echinacea purpurea, Lavandula angustifolia, Leucanthemum xsuperbum 'Alaska', and xPenstemon mexicali 'Red Rocks') ornamental herbaceous perennials."
+        }
+    },
+    {
+        "id": 1007,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 221,
+                            "end": 243,
+                            "text": "Lavandula angustifolia",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 66,
+                            "end": 87,
+                            "text": "western United States",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The authors investigated salinity tolerance of four intermountain western United States native (Penstemon palmeri, Mirabilis multiflora, Geranium viscosissimum, and Eriogonum jamesii) and four common (Echinacea purpurea, Lavandula angustifolia, Leucanthemum xsuperbum 'Alaska', and xPenstemon mexicali 'Red Rocks') ornamental herbaceous perennials."
+        }
+    },
+    {
+        "id": 1008,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 245,
+                            "end": 267,
+                            "text": "Leucanthemum xsuperbum",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 66,
+                            "end": 87,
+                            "text": "western United States",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "The authors investigated salinity tolerance of four intermountain western United States native (Penstemon palmeri, Mirabilis multiflora, Geranium viscosissimum, and Eriogonum jamesii) and four common (Echinacea purpurea, Lavandula angustifolia, Leucanthemum xsuperbum 'Alaska', and xPenstemon mexicali 'Red Rocks') ornamental herbaceous perennials."
+        }
+    },
+    {
+        "id": 1009,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 54,
+                            "end": 74,
+                            "text": "Epidendrum nocturnum",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 45,
+                            "end": 52,
+                            "text": "Florida",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Seeds of an endangered epiphytic orchid from Florida (Epidendrum nocturnum Jacquin) germinated in vitro with a mycorrhizal fungus [Epulorhiza repens (Bernard) Moore] using a technique normally applied to terrestrial orchids (symbiotic seed germination)."
+        }
+    },
+    {
+        "id": 1010,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 131,
+                            "end": 148,
+                            "text": "Epulorhiza repens",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 45,
+                            "end": 52,
+                            "text": "Florida",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "False"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Seeds of an endangered epiphytic orchid from Florida (Epidendrum nocturnum Jacquin) germinated in vitro with a mycorrhizal fungus [Epulorhiza repens (Bernard) Moore] using a technique normally applied to terrestrial orchids (symbiotic seed germination)."
+        }
+    },
+    {
+        "id": 1011,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 307,
+                            "end": 318,
+                            "text": "P. sellowii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 100,
+                            "end": 106,
+                            "text": "Brazil",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "With the aim to characterize the modern and past distribution of the southern conifer Podocarpus in Brazil and to obtain new information on the distribution of the Atlantic rainforest during the Quaternary, we examined herbarium data to locate the populations of three Brazilian endemic Podocarpus species: P. sellowii, P. lambertii, and P. brasiliensis, and extracted DNA from fresh leaves from 26 populations."
+        }
+    },
+    {
+        "id": 1012,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 320,
+                            "end": 332,
+                            "text": "P. lambertii",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 100,
+                            "end": 106,
+                            "text": "Brazil",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "With the aim to characterize the modern and past distribution of the southern conifer Podocarpus in Brazil and to obtain new information on the distribution of the Atlantic rainforest during the Quaternary, we examined herbarium data to locate the populations of three Brazilian endemic Podocarpus species: P. sellowii, P. lambertii, and P. brasiliensis, and extracted DNA from fresh leaves from 26 populations."
+        }
+    },
+    {
+        "id": 1013,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 338,
+                            "end": 353,
+                            "text": "P. brasiliensis",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 100,
+                            "end": 106,
+                            "text": "Brazil",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "With the aim to characterize the modern and past distribution of the southern conifer Podocarpus in Brazil and to obtain new information on the distribution of the Atlantic rainforest during the Quaternary, we examined herbarium data to locate the populations of three Brazilian endemic Podocarpus species: P. sellowii, P. lambertii, and P. brasiliensis, and extracted DNA from fresh leaves from 26 populations."
+        }
+    },
+    {
+        "id": 1014,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 33,
+                            "end": 51,
+                            "text": "Xylella fastidiosa",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 100,
+                            "end": 106,
+                            "text": "Brazil",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Genetic structure and biology of Xylella fastidiosa strains causing disease in citrus and coffee in Brazil"
+        }
+    },
+    {
+        "id": 1015,
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "start": 13,
+                            "end": 29,
+                            "text": "Panicum virgatum",
+                            "labels": [
+                                "Species"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "start": 124,
+                            "end": 137,
+                            "text": "North America",
+                            "labels": [
+                                "Geography"
+                            ]
+                        },
+                        "type": "labels",
+                        "from_name": "label"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "True"
+                            ]
+                        },
+                        "type": "choices",
+                        "from_name": "isLocated"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "Switchgrass (Panicum virgatum L.) has been the principal perennial herbaceous crop investigated for bioenergy production in North America given its high production potential, relatively low input requirements, and potential suitability for use on marginal lands."
+        }
+    }
+]
