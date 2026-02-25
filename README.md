@@ -160,14 +160,17 @@ Feel free to open a Pull Request or discussion.
 
 If you use **Specifind** in your research, please cite our pre-print:
 
+### APA
+Tomas, G. D., Josep, F. A., Anna, D., María, B., Alejandro, R., Noemi, C., & Tommaso, C. (2025). *Specifind: A Natural Language Processing Tool for Automating Species Occurrence (Re-) Discovery from Scientific Literature*. bioRxiv, 2025-12.
+
 ### BibTeX
 
 ```bibtex
 @article{specifind2025,
   title   = {Specifind: A Natural Language Processing Tool for Automating Species Occurrence (Re-)Discovery from Scientific Literature},
-  author  = {Golomb Durán Tomas, Díaz Anna, Barroso María, Far Antoni Josep, Roldán Alejandro, Cancellario Tommaso},
+  author  = {Golomb Durán Tomás, Díaz Anna, Barroso María, Far Antoni Josep, Roldán Alejandro, Cancellario Tommaso},
   year    = {2025},
   journal = {BioRxiv},
-  url     = {https://github.com/ToGo347/specifind}
+  url     = {https://doi.org/10.64898/2025.12.24.696373}
 }
 ```
