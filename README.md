@@ -65,6 +65,42 @@ s.analyze_file("path/to/file.pdf")
 # }
 ```
 
+### **R Example (via reticulate)**
+
+```bash
+python3.11 -m venv venv
+source venv/bin/activate
+```
+
+**Install Specifind**
+```bash
+pip install --upgrade pip
+pip install specifind
+```
+
+**Open R, load the reticulate library and configure the virtual environment.**
+```R
+# Load reticulate package
+library(reticulate)
+use_virtualenv("venv", required = TRUE)
+```
+
+**Import Specifind and run the analysis.**
+```R
+# Import the Specifind class
+Specifind <- import("specifind")$Specifind
+
+# Create an instance
+s <- Specifind(use_gpu=TRUE)
+
+# Option A: Run the analysis on a text string
+text <- "Upupa epops is an exotic bird. It is widely extended over Spain."
+result <- s$analyze(text, coref = TRUE, return_doc = FALSE)
+
+# Option B: Run analysis on a PDF file
+result <- s$analyze_file("path/to/document.pdf", coref = TRUE, dpi = 96L)
+```
+
 ---
 
 ## 📘 API Reference
